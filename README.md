@@ -47,6 +47,7 @@ l.predict([[150.3,240.5,234.5]])
 ```
 
 ## Output:
+![Intro_EX3](https://user-images.githubusercontent.com/94827772/162359232-9d203a5e-52f6-41d0-95a8-2ce7cea5e5be.png)
 
 
 ## Result:
